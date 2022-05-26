@@ -2,4 +2,4 @@
 
 
 class HerokuApp:
-    app_url = "http://0.0.0.0:5000"
+    app_url = "https://f-jak-fast.herokuapp.com/"
